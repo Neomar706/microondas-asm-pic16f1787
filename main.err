@@ -1,0 +1,17 @@
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 1 : Found directive in column 1. (list)
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 2 : Found directive in column 1. (include)
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 3 : Found directive in column 1. (__CONFIG)
+Message[303] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 3 : Program word too large.  Truncated to core size. (FFE4)
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 114 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 429 : Found directive in column 1. (end)
+Message[303] C:\USERS\ADMIN\DOCUMENTS\MICROWAVE_PIC\MAIN.ASM 429 : Program word too large.  Truncated to core size. (FFE4)
